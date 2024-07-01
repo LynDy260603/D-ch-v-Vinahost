@@ -16,6 +16,7 @@
     - Theo dõi website để đưa ra các đánh giá và tư vấn các phương án tối ưu website dựa trên GTMetrix/Google Pagespeed Insight
     - Quy trình bảo mật hệ thống cơ bản và nâng cao
     - Pentest website ở mức cơ bản
+      
 **2. Địa chỉ IP:**
 - *Cloud:* Gồm có 3 cái Cloud public, Cloud private, Cloud backup
     - Dịch vụ Cloud Public: Gồm có Cloud Server Standard, cloud server high-memory:
@@ -23,11 +24,13 @@
     - Dịch vụ Cloud Backup: VM backup and Recovery, Veeam Data Platform.
 - *Alibaba Cloud*: Alibaba Cloud ESC, Alibaba Cloud Application, 
 LoudBox,Alibaba Cloud Server Load Balancer, Alibaba Cloud Elasticsearch, Alibaba Cloud CDN, Alibaba Cloud Edge Node Service-ENS, Alibaba Cloud OSS_Object Storage Service, Container Service for Kubernetes,Anti-ddos, Web Application Firewall, ApsaraDB RDS.
+
 **3. VPS**: Là máy chủ ảo
 - *VPS NVME:* Dành cho cá nhân, doanh nghiệp cần tìm giải pháp lưu trữ tốc độ cao và ổn định, đem lại trải nghiệm mượt mà cho các Website, ứng dụng Game, hoặc các ứng dụng đòi hỏi xử lý dữ liệu lớn.
 - *Thuê VPS cao cấp:* Dịch vụ cung cấp máy chủ ảo (VPS) đáp ứng nhu cầu cho các site cần sự ổn định cao, tốc độ truy xuất dữ liệu nhanh, tài nguyên sử dụng dịch vụ lớn.
 - *Thuê VPS giá rẻ:* Dịch vụ máy chủ ảo (VPS) phù hợp với nhu cầu của các cá nhân, doanh nghiệp nhỏ, đặc biệt là phục vụ mục đích học thuật của sinh viên.
--*VPS MMO giá rẻ chất lượng:* Dịch vụ VPS cung cấp số lượng proxy IPv6. 
+-*VPS MMO giá rẻ chất lượng:* Dịch vụ VPS cung cấp số lượng proxy IPv6.
+  
 **4. Hosting:** Là nơi lưu trữ trên máy chủ để lưu trữ tệp tin, dữ liệu của một trang web hoặc một ứng dụng. 
 - *Hostting cao cấp NVMe:* Sử dụng ổ cứng NVMe
 -*Hosting giá rẻ:* Là Linux Hosting, hợp cho các sinh viên, các doanh nghiệp Start – Up
@@ -37,7 +40,8 @@ LoudBox,Alibaba Cloud Server Load Balancer, Alibaba Cloud Elasticsearch, Alibaba
 - *Unlimited hosting:* Là gói không giới hạn về tài nguyên dung lượng, tên miền, parked domain và tài khoản emails
 - *SEO hosting giá rẻ full SSD:* Một tài khoản Hosting có thể gán nhiều địa chỉ IP khác nhau (khác lớp C). Mỗi website có thể cài đặt IP riêng khác nhau. Hệ điều hành CloudLinux, Server Dell. 
 - *Database Hosting version 2.0:* Là cung cấp hosting tách biệt với máy chủ web, dùng lưu trữ và quản lý csdl. 
-- *Hosting đại lý:* Là chia các gói hosting nhỏ tương ứng với thông số kỹ thuật tùy ý cho ngưởi dùng cuối. 
+- *Hosting đại lý:* Là chia các gói hosting nhỏ tương ứng với thông số kỹ thuật tùy ý cho ngưởi dùng cuối.
+  
 **5. Email**
 -*Email doanh nghiệp*
 - *Email hosting*
@@ -47,7 +51,9 @@ LoudBox,Alibaba Cloud Server Load Balancer, Alibaba Cloud Elasticsearch, Alibaba
 - *GG Wrokspace*
 - *Hybird Email*
 - *Email Marketing*
+  
 **6. Tên miền**
+
 **7. SSL**
   
 
