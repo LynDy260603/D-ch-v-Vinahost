@@ -17,7 +17,7 @@
     - Quy trình bảo mật hệ thống cơ bản và nâng cao
     - Pentest website ở mức cơ bản
       
-**2. Địa chỉ IP:**
+**2. Cloud:**
 - *Cloud:* Gồm có 3 cái Cloud public, Cloud private, Cloud backup
     - Dịch vụ Cloud Public: Gồm có Cloud Server Standard, cloud server high-memory:
     - Dịch vụ Cloud private: Hạ tầng Cloud có thể được đặt ở Data Center của khách hàng hoặc của VinaHost. Toàn bộ hệ thống được quản lý bởi khách hàng, VinaHost hoặc bên thứ ba.
